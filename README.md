@@ -1,2 +1,2 @@
 # Desafio sobre Git/Github da Digital Innovation One
-Repositório criado para o desafio de projeto.
+Repositório criado apenas para o desafio, porém, adicionei uma lista de comandos úteis do Git.
